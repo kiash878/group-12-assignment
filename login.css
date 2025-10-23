@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5;
+    margin: 0;
+    padding: 0;
+    cursor: alias;
+    
+}
+ header {
+    text-align: center;
+    padding: 40px;
+ }
+
+ h1{
+    color: #333;
+    margin-bottom: 30px;
+ }
+
+ .container {
+    background-color: #fff;
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: rgb(11, 207, 27) 0px 5px 15px;
+
+ }
+ input[type="text"],
+ input[type="password"] {
+    width: 200px;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+ }
+ #fff {
+    margin-right: 5px;
+ }
+
+ a {
+    color: 007BFF;
+    text-decoration: none;
+    margin-left: 5px;
+ }
+
+ a:hover {
+    text-decoration: underline;
+    
+
+ }
+ 
+
+ button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 50%;
+    font-size: 16px;
+ }
+
+ button:hover {
+    background-color: #218838;
+    
+
+ }
+
+ p {
+    margin-top: 20px;
+    color: #333;
+    font-size: 14px;
+ }
+ a[href="signup.html"] {
+    display: inline-block;
+    margin-top: 5px;
+    color: #28a745;
+    font-weight: bold;
+ }
+ 
+ 
